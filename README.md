@@ -1,16 +1,4 @@
 # 
-> an enterprise ready boilerplate for isomorphic, progressive web apps
-
-[![Build Status](https://travis-ci.org/devCrossNet/vue-starter.svg?branch=master)](https://travis-ci.org/devCrossNet/vue-starter)
-[![codecov](https://codecov.io/gh/devCrossNet/vue-starter/branch/master/graph/badge.svg)](https://codecov.io/gh/devCrossNet/vue-starter)
-[![Dependencies](https://img.shields.io/david/devCrossNet/vue-starter.svg)](https://david-dm.org/devCrossNet/vue-starter)
-[![DevDependencies](https://img.shields.io/david/dev/devCrossNet/vue-starter.svg)](https://david-dm.org/devCrossNet/vue-starter?type=dev)
-[![GitHub repo size](https://img.shields.io/github/repo-size/devCrossNet/vue-starter.svg)]()
-[![GitHub issue last update](https://img.shields.io/github/issues/detail/last-update/devCrossNet/vue-starter/979.svg)]()
-
-# Live demo
-
-
 
 # Features
 **Quick scaffolding**
@@ -107,10 +95,3 @@ To release a new version of your project run one of the following commands:
 - `npm run release:patch`
 
 This will also automatically generate a change log.
-
-# Reference resources
-
-- [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
-- [vue-ssr-starter-kit](https://github.com/doabit/vue-ssr-starter-kit)
-- [Angular](https://github.com/angular/angular)
-

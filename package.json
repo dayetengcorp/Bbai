@@ -1,10 +1,10 @@
 {
-  "name": "",
+  "name": "bbai",
   "version": "0.0.0",
-  "description": "A Vue.js boilerplate to build isomorphic web apps",
+  "description": "bbai",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devCrossNet/vue-starter.git"
+    "url": "https://github.com/dayetengcorp/Bbai.git"
   },
   "keywords": [
     "vue",
@@ -17,11 +17,6 @@
     "jest"
   ],
   "author": "jimji",
-  "license": "MIT",
-  "homepage": "https://github.com/devCrossNet/vue-starter",
-  "bugs": {
-    "url": "https://github.com/devCrossNet/vue-starter/issues"
-  },
   "scripts": {
     "g": "npm run generate",
     "dev": "npm run dev:dev-server && npm run dev:server && node ./dist/server/server.js",
