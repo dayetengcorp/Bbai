@@ -6,7 +6,7 @@
 
 1. Install Node.js 8.7.x or higher. Use [nvm](https://github.com/creationix/nvm) to maintain multiple Node.js versions
 2. Install npm version 5.4.x or higher
-3. clone repository `git clone https://github.com/devCrossNet/vue-starter`
+3. clone repository `git clone https://github.com/dayetengcorp/Bbai`
 4. Install dependencies: `npm install`
 5. Run `npm run dev`. The server runs on port `3000` by default, set `PORT` environment variable to configure a different port
 
