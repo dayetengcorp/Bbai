@@ -1,49 +1,6 @@
 # 
 
-# Features
-**Quick scaffolding**
 
-Create components, connected components, modules - and their tests - right from the CLI!
-
-**Instant feedback**
-
-Enjoy the best DX (Developer eXperience) and code your app at the speed of thought!
-Your saved changes to the CSS and TypeScript are reflected instantaneously without refreshing the page.
-Preserve application state even when you update something in the underlying code!
-
-**SEO** (with [vue-meta](https://github.com/declandewet/vue-meta))
-
-We support SEO (document head tags management) and server-side-rendering for search engines
-that support indexing of JavaScript content. (eg. Google)
-
-**Progressive-Web-App**
-
-Offline-first support with service-workers and a lighthouse score as high as possible (for me - 90+).
-
-**Enterprise ready**
-
-Common style guide, TypeScript and the best test setup: Automatically guarantee code quality and non-breaking changes.
-
-**Animations** (with [anime.js](http://animejs.com/))
-
-A stable animations set up already included.
-
-**Components**
-
-A flexible component library that'll be extended over time.
-
-
-**Industry-standard i18n internationalization support**
-
-Scalable apps need to support multiple languages, easily add and support multiple languages with [vue-i18n](https://github.com/kazupon/vue-i18n).
-
-**Predictable state management** 
-
-With [vuex](https://github.com/vuejs/vuex).
-
-**Routing with data prefetching**
-
-Server-side-rendering of prefetched data and transferring state from server to client.
 
 # Quick start
 
