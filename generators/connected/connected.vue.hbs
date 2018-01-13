@@ -1,0 +1,33 @@
+<template>
+  <div>
+    <h1>{{ properCase componentName }}</h1>
+    <div v-for="item in {{ camelCase moduleName }}">
+      <p>\{{ item.title }}</p>
+    </div>
+  </div>
+</template>
+
+<script lang="ts">
+  import { mapGetters } from 'vuex';
+
+  export default {
+    components: {},
+    props: {},
+    data(): any {
+      return {};
+    },
+    computed: {
+      ...mapGetters({
+        {{ camelCase moduleName }}: 'get{{ properCase moduleName }}'
+      }),
+    },
+    methods: {},
+    prefetch: ({ store }: any) => {
+      return store.dispatch(`get{{ properCase moduleName }}`);
+    },
+  };
+</script>
+
+<style lang="scss" module>
+
+</style>
